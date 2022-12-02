@@ -1,1 +1,5 @@
+MONGO_DB_URL ="mongodb://localhost:27017"
 AWS_ACCESS_KEY_ID="sdsd23sdasd"
+AWS_SECRET_ACCESS_KEY="sadoiuabnswodihabosdbn"
+
+class EnvironmentVariable:
